@@ -1,0 +1,21 @@
+body.white{
+  background-color:white;
+  color:black;
+}
+body.black{
+  background-color:black;
+  color:white;
+}
+#logo {
+  width:100px;
+}
+.container{
+  padding-top:20px;
+}
+#control{
+  margin-bottom:40px;
+}
+#button-group{
+  margin-left:5px;
+  margin-right:5px;
+}
